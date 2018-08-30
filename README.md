@@ -1,7 +1,7 @@
 # Driving-using-motion-recogniton
 Program to drive cars in games like GTA V using motion recognition.
 
-![alt-text] (image)
+![alt-text] (https://github.com/TanayKarve/Driving-using-motion-recogniton/blob/master/hands.jpg)
 
 
 
