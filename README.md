@@ -14,6 +14,8 @@ Calculate distance between centres of fists and convert to speed. If distance is
 <img src="https://github.com/TanayKarve/Driving-using-motion-recogniton/blob/master/hands.jpg" width=300 height=250>
 
 
+Patent pending.
+
 
 
 Used Pyvjoy for joystick interface and UCR for XBOX 360 controller emulation.
