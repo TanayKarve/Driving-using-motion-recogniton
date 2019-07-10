@@ -16,6 +16,7 @@ Calculate distance between centres of fists and convert to speed. If distance is
 
 Patent pending.
 
+TODO: Implement hand localisation using Faster RCNN for accurate and robust results.
 
 
 Used Pyvjoy for joystick interface and UCR for XBOX 360 controller emulation.
