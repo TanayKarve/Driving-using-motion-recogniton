@@ -1,4 +1,7 @@
 # Driving-using-motion-recogniton
+
+[Paper](https://ieeexplore.ieee.org/document/9063804) about the project.
+
 Youtube video of project:
 
 <https://youtu.be/F8jHWu5fUM0>
